@@ -1,0 +1,16 @@
+1.  Cara Kerja LCD
+    - LCD menggunakan lapisan kristal cair di antara dua lapisan kaca atau plastik.
+    - Ketika diberi tegangan listrik, kristal cair ini mengatur cahaya dari belakang untuk membentuk gambar.
+
+2.  Cara Kerja LED
+    - LED dibuat dari dua bahan yang menghasilkan cahaya saat dialiri listrik.
+    - Banyak LED kecil disusun bersama untuk menampilkan gambar yang terang dan jelas.
+
+3.  - Pengaturan suhu pada kulkas
+    - Lampu otomatis, lampu yang menyala ketika listrik di rumah padam (dari batre yang diisi selama listrik mengalir)
+    - Jam digital, mampu menampilkan alarm pada waktu tertentu
+    - Mesin cuci, yang dapat mengatur mode pencucian
+    - AC, yang dapat menurunkan suhu untuk mencapai suhu yang diinginkan dan mempertahankan suhu tersebut
+
+4.  Membuat alat pembari makan DOC (anak ayam) berbasis waktu, nanti akan menggunakan sensor waktu sebagai kapan alat rakit yang terdiri dari servo untuk membuka katup wadah.
+    Bisa dibuka setiap jam tertentu atau tiap berapa jam sekali, nantinya juga ingin disambukang ke perangkat smartphone agar alat bisa juga membuka (memberi makan) apabila diperlukan pemberian tambahan
